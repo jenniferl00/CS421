@@ -1,0 +1,148 @@
+Script started on Fri 12 Feb 2021 09:16:48 PM PST
+]0;luu019@empress:~/CS421Progs/HW1B_RecGen[?1034h[luu019@empress HW1B_RecGen]$ ex./a.oug++ recognizer.cexitg++ recognizer.c[11P./a.ou[3Pex[Kg++ -std=c++11 generator.cpp
+]0;luu019@empress:~/CS421Progs/HW1B_RecGen[luu019@empress HW1B_RecGen]$ ./a.out
+0 is binary
+1 is binary
+00 is binary
+01 is binary
+10 is binary
+11 is binary
+# of elements processed = 9
+Enter a character and <cr> to continue...
+1
+000 is binary
+001 is binary
+010 is binary
+011 is binary
+100 is binary
+101 is binary
+110 is binary
+111 is binary
+# of elements processed = 27
+Enter a character and <cr> to continue...
+1
+0000 is binary
+0001 is binary
+0010 is binary
+0011 is binary
+0100 is binary
+0101 is binary
+0110 is binary
+0111 is binary
+1000 is binary
+1001 is binary
+1010 is binary
+1011 is binary
+1100 is binary
+1101 is binary
+1110 is binary
+1111 is binary
+# of elements processed = 81
+Enter a character and <cr> to continue...
+1
+00000 is binary
+00001 is binary
+00010 is binary
+00011 is binary
+00100 is binary
+00101 is binary
+00110 is binary
+00111 is binary
+01000 is binary
+01001 is binary
+01010 is binary
+01011 is binary
+01100 is binary
+01101 is binary
+01110 is binary
+01111 is binary
+10000 is binary
+10001 is binary
+10010 is binary
+10011 is binary
+10100 is binary
+10101 is binary
+10110 is binary
+10111 is binary
+11000 is binary
+11001 is binary
+11010 is binary
+11011 is binary
+11100 is binary
+11101 is binary
+11110 is binary
+11111 is binary
+# of elements processed = 243
+Enter a character and <cr> to continue...
+1
+000000 is binary
+000001 is binary
+000010 is binary
+000011 is binary
+000100 is binary
+000101 is binary
+000110 is binary
+000111 is binary
+001000 is binary
+001001 is binary
+001010 is binary
+001011 is binary
+001100 is binary
+001101 is binary
+001110 is binary
+001111 is binary
+010000 is binary
+010001 is binary
+010010 is binary
+010011 is binary
+010100 is binary
+010101 is binary
+010110 is binary
+010111 is binary
+011000 is binary
+011001 is binary
+011010 is binary
+011011 is binary
+011100 is binary
+011101 is binary
+011110 is binary
+011111 is binary
+100000 is binary
+100001 is binary
+100010 is binary
+100011 is binary
+100100 is binary
+100101 is binary
+100110 is binary
+100111 is binary
+101000 is binary
+101001 is binary
+101010 is binary
+101011 is binary
+101100 is binary
+101101 is binary
+101110 is binary
+101111 is binary
+110000 is binary
+110001 is binary
+110010 is binary
+110011 is binary
+110100 is binary
+110101 is binary
+110110 is binary
+110111 is binary
+111000 is binary
+111001 is binary
+111010 is binary
+111011 is binary
+111100 is binary
+111101 is binary
+111110 is binary
+111111 is binary
+# of elements processed = 729
+Enter a character and <cr> to continue...
+exit
+]0;luu019@empress:~/CS421Progs/HW1B_RecGen[luu019@empress HW1B_RecGen]$ exit
+exit
+
+Script done on Fri 12 Feb 2021 09:17:41 PM PST
