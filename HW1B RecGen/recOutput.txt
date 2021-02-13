@@ -1,0 +1,21 @@
+Script started on Fri 12 Feb 2021 08:41:34 PM PST
+]0;luu019@empress:~/CS421Progs/HW1B_RecGen[?1034h[luu019@empress HW1B_RecGen]$ g++ recognizer.cpp
+]0;luu019@empress:~/CS421Progs/HW1B_RecGen[luu019@empress HW1B_RecGen]$ ./a.out
+Enter string to check, enter 'end' to exit
+0
+YES IN L
+1
+YES IN L
+00110
+YES IN L
+2
+NO IN L
+02
+NO IN L
+31
+NO IN L
+exit
+]0;luu019@empress:~/CS421Progs/HW1B_RecGen[luu019@empress HW1B_RecGen]$ exit
+exit
+
+Script done on Fri 12 Feb 2021 08:42:43 PM PST
